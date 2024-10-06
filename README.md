@@ -36,5 +36,6 @@ Lakkas-Pyknis Evangelos, Registration number: f2822306
 Mesolora Stamatoula Gerasimoula, Registration number: f2822308
  
 Course Information:
+Machine Learning and Content Analytics,
 MSc Business Analytics, Athens University of Economics and Business
-Machine Learning and Content Analytics
+
