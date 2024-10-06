@@ -19,7 +19,8 @@ Embedding-based Recommendation:
 The selected ViT model was used to extract both visual and label features as embeddings, which were then utilized to calculate the similarity between paintings for the recommendation system.
 Dataset
  
-The initial dataset utilized is collected from "Best Artworks of All Time" and can be accessed at Kaggle(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time). The "data.csv" file is included in this repository.
+The initial dataset utilized is collected from "Best Artworks of All Time" and can be accessed at Kaggle(https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time). Based on this dataset 400 images
+were selected and we created and excel file that for each image contained the corresponding values for all five target labels.
  
 Part 1:
 In this part, each of the 400 selected image titles is mapped to its corresponding file path in the images folder for use in the project.
